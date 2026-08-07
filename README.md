@@ -1,4 +1,4 @@
-# 🏗️ Dashboard de Pilares e Vagas — Ferramenta de Apoio à Inspeção Estrutural
+# Dashboard de Pilares e Vagas — Ferramenta de Apoio à Inspeção Estrutural
 
 Aplicação web que recebe uma planilha Excel com o levantamento de uma obra
 (pilares e vagas de estacionamento) e devolve, automaticamente: tratamento
