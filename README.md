@@ -6,7 +6,9 @@ dos dados, cálculo de área, estatística (média/desvio padrão) comparando o
 real com o projeto, indicadores, gráficos e um relatório em PDF.
 ![texto alternativo](imagem do projeto)
 Já entrega **v1 (Pilares)** e **v2 (Vagas de Estacionamento)** do roadmap.
- ![Dashboard do projeto](imagem-do-projeto.png) 
+<p align="center">
+  <img src="imagem-do-projeto.png" alt="Dashboard do projeto" width="700">
+</p>
 
 ## Como funciona
 
