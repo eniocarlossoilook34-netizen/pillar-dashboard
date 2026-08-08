@@ -4,7 +4,7 @@ Aplicação web que recebe uma planilha Excel com o levantamento de uma obra
 (pilares e vagas de estacionamento) e devolve, automaticamente: tratamento
 dos dados, cálculo de área, estatística (média/desvio padrão) comparando o
 real com o projeto, indicadores, gráficos e um relatório em PDF.
-
+![texto alternativo](imagem do projeto)
 Já entrega **v1 (Pilares)** e **v2 (Vagas de Estacionamento)** do roadmap.
 ![Uploading imagem do projeto.png…]()
 
